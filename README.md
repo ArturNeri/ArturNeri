@@ -2,9 +2,10 @@
 
 
 - 🔭 Hoje estou trabalhando com Front-end 
-- 🌱 estudando java-script com o objetivo de posteriormente iniciar o estudo de Javascript e TypeScript avançado - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
-- 💬 contate-me no E-mail neri.arthu2@gmail.com
+- 🌱 estudando java-script com o objetivo de posteriormente iniciar o estudo de Javascript e TypeScript avançado - front-end com objetivo de se tornar Full-stack.
+- 💬 contate-me no E-mail: neri.arthu2@gmail.com
 - 😄 Pronouns: Ele/Dele
+- 📱 telefone: (+55) 82 98829-3241
 
 <div align="center">
   <a href="https://github.com/ArturNeri">
