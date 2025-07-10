@@ -5,8 +5,7 @@ Portfólio: https://arturneri.github.io/
 - 🌱 estudando java-script - Sou front-end com objetivo de se tornar Full-stack.
 - 💬 contate-me no E-mail: neri.arthu2@gmail.com
 - 😄 Pronouns: Ele/Dele
-- 📱 telefone: (+55) 82 98829-3241
-
+- 📱 telefone: (+55) 14 99157-9601
 <div align="center">
   <a href="https://github.com/ArturNeri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturNeri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
